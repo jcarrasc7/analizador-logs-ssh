@@ -15,7 +15,7 @@ python analizador_logs.py auth_ejemplo.log --umbral 5
 ```
 
 ## Tecnologias
-Python 3 (re, argparse, collections). No necesita librerias externas.
+Python 3 (expresiones regulares, argparse, collections, random, datetime). No necesita librerias externas.
 
 ## Nota
 El log de ejemplo es simulado y usa IPs de documentacion, no datos reales.
